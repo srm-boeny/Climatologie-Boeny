@@ -238,5 +238,5 @@ On peut observé qu'une relation inverse claire se dessine entre couverture nuag
 > **Commentaires :**  
 > Avril et octobre sont des mois de transition, avec alternance d’humidité et de sécheresse. Phénomènes convectifs parfois intenses mais brefs.
 
----
+
 
