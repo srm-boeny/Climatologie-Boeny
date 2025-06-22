@@ -1,4 +1,4 @@
-# 6. Informations climatiques pour les usagers
+# 6. Informations météorologiques, climatologiques et hydrologiques pour les usagers
 
 ## 6.1 Secteurs concernés
 
