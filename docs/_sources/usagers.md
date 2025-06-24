@@ -15,7 +15,7 @@ Certains produits sont des co-productions avec d'autre institutions. Cette liste
 | **Éducation** | Supports pédagogiques et sensibilisation - éducation environnementale (base scientifique)|
 | **Grand public** | Prévisions journalières pour les 3 jours à venir|
 
-## 6.2 Nous encourageant l’usage
+## 6.2 Nous encourageons l’usage
 
 A travers des dispatch des informations météorologiques et climatiques, le SRM encourage l'utilisation des informations et des produits des SRM au niveau régionaux afin d'y prendre les decisions et actions necessaires pour faire face aux situations météorologique et climatique existant et prévus. 
 
