@@ -2,7 +2,8 @@
 
 ## 6.1 Secteurs concernés
 
-Le SRM Boeny peut fournir les bulletins et informations suivant pour les usagers de la région. Cette liste est non exhaustive:
+Le SRM Boeny peut fournir les bulletins et informations suivant pour les usagers de la région.
+Certains produits sont des co-productions avec d'autre institutions. Cette liste est non exhaustive:
 
 | Secteur | Intérêt climatique |
 |--------|--------------------|
@@ -11,10 +12,10 @@ Le SRM Boeny peut fournir les bulletins et informations suivant pour les usagers
 | **Santé** | Surveillance des maladies liées au climat ou maladie climato-sensible |
 | **GRC** | Vigilance aux cyclones, inondations et crue|
 | **Recherche** | Recherche, analyse et interprétation des événements météorologiques, climatologiques et hydrologiques, ainsi que de leurs variabilités naturelles et anthropiques.|
-| **Éducation** | Supports pédagogiques et sensibilisation , éducation environnementale|
+| **Éducation** | Supports pédagogiques et sensibilisation - éducation environnementale (base scientifique)|
 | **Grand public** | Prévisions journalières pour les 3 jours à venir|
 
-## 6.2 Encourager l’usage
+## 6.2 Nous encourageant l’usage
 
 A travers des dispatch des informations météorologiques et climatiques, le SRM encourage l'utilisation des informations et des produits des SRM au niveau régionaux afin d'y prendre les decisions et actions necessaires pour faire face aux situations météorologique et climatique existant et prévus. 
 
