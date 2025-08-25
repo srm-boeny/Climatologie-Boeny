@@ -21,7 +21,7 @@ En revanche, les températures restent élevées toute l’année, avec une moye
 
 ## 4.2 Paramètres climatiques moyens
 
-Cette section détaille les paramètres climatiques moyens à l’échelle mensuelle, en soulignant les spécificités régionales.
+Cette section détaille les paramètres climatiques moyens à l’échelle mensuelle, en soulignant les spécificités de la région.
 
 ### 4.2.1 Précipitations mensuelles
 
@@ -176,13 +176,6 @@ La superposition des données montre une période de stress hydrique important d
 > - Précipitations > 100 mm/mois.  
 > - Températures élevées et forte humidité.  
 > - Risques accrus de cyclones et d’inondations.
-
-> **Saison sèche (Mai – Octobre)**  
-> - Précipitations < 50 mm/mois.  
-> - Vent régulier et air plus sec.  
-> - Activités agricoles dépendant de l’irrigation.
-
-> **Saison des pluies (Novembre – Avril)**
 > - Précipitations mensuelles :
   >   - Novembre : ~120 mm
   >   - Décembre : ~180 mm
@@ -192,16 +185,19 @@ La superposition des données montre une période de stress hydrique important d
   >   - Avril : ~40 mm (transition vers la saison sèche)
 
 > - Températures :
-  >   - Maximales : 31,5 °C à 33 °C
+  >   - Maximales : 31,5 °C à 34 °C
   >   - Minimales : 23 °C à 25 °C
-
 > - Conditions générales :
 >   - Atmosphère chaude et humide
 >   - Forte couverture nuageuse
 >   - Risque élevé de cyclones (surtout décembre à mars)
->   - Inondations possibles en janvier-février
+>   - Risque d'inondations possibles entre Décembre à Mars
 
-> **Saison sèche (Mai – Octobre)**
+> **Saison sèche (Mai – Octobre)**  
+> - Précipitations < 50 mm/mois.  
+> - Vent régulier et air plus sec.  
+> - Activités agricoles dépendant de l’irrigation.
+
 > - Précipitations mensuelles :
   >   - Mai : ~15 mm
   >   - Juin à Septembre : ~0 à 1 mm
@@ -236,7 +232,7 @@ Période la plus ensoleillée est entre les mois de septembre à novembre, la ra
 On peut observé qu'une relation inverse claire se dessine entre couverture nuageuse et radiation solaire : lorsque les nuages sont nombreux, l’énergie solaire reçue est faible, et inversement.
 
 > **Commentaires :**  
-> Avril et octobre sont des mois de transition, avec alternance d’humidité et de sécheresse. Phénomènes convectifs parfois intenses mais brefs.
+> Avril-Mai et Septembre-Octobre sont des mois de transition, avec alternance de forte humidité et de période sèche. Phénomènes convectifs parfois intenses mais brefs.
 
-
+---
 

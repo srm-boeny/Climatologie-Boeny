@@ -51,12 +51,12 @@ On peut observé que pour les décennies:
 
 Climatologiquement, la décennie 2000s est la plus exposée aux événements intenses, avec plusieurs cas au-delà du seuil de cyclone tropical intense (≥166 km/h).
 
-La tendance sur les décennies récentes (2010s et 2020s) montre une baisse du nombre d’événements très intenses, mais une persistance des perturbations tropicales modérées.
+La tendance sur les décennies récentes (2010s et 2020s) montre une baisse du nombre d’événements très intenses, mais une persistance des perturbations tropicales modérées. Neanmoins, il faut rappeler qu'on est encore dans la première moitiée de la prériode 2020s.
 
 
 - **Fréquence** : 1 cyclone tous les 2–3 ans  
 - **Période** : de décembre à avril  
-- **Effets typiques** : pluies intenses, vents destructeurs, inondations
+- **Effets typiques** : pluies intenses, vents destructeurs, inondations cotières et continentales, vagues
 
 ## 5.2 Autres aléas
 
