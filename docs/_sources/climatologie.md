@@ -87,31 +87,31 @@ On observe un gradient nord-sud marqué tout au long de l’année, les tempéra
 
 ### 4.2.3 Radiation solaire
 
-:::{figure} assets/maps/SolarRadiation_BOENY_Jcm2.png
+:::{figure} assets/maps/SolarRadiation_BOENY_Wm2.png
 :alt: Radiation solaire
 :width: 100%
 :name: fig-radiation
 
-Moyenne de la radiation solaire annuelle dans la région Boeny
+Moyenne journalière de la radiation solaire dans la région Boeny
 :::
-Le graphique sur la [](fig-radiation) met en évidence la répartition spatiale et saisonnière de l’énergie solaire reçue à la surface (exprimée en J/cm²) tout au long de l’année dans la région Boeny. Il permet de mieux comprendre le potentiel solaire utile à des fins agricoles, énergétiques (photovoltaïque) ou climatiques.
+Le graphique sur la [](fig-radiation) met en évidence la répartition spatiale et saisonnière de l’énergie solaire reçue à la surface (exprimée en W/m², moyenne journalière) tout au long de l’année dans la région Boeny. Il permet de mieux comprendre le potentiel solaire utile à des fins agricoles, énergétiques (photovoltaïque) ou climatiques.
 
   - Faible radiation durant la saison humide (Janvier à Avril)
-    De janvier à avril, la radiation solaire est relativement modérée, avec des valeurs comprises entre 1422,9 et 1880 J/cm².
+    De janvier à avril, la radiation solaire est relativement modérée, avec des valeurs comprises entre 180 et 210 W/m².
 
     Cette période correspond à la saison des pluies, caractérisée par une importante couverture nuageuse qui limite l’ensoleillement direct.
 
-    Les valeurs les plus faibles sont enregistrées en janvier et février, surtout dans le sud-ouest de la région (district de Soalala), avec une légère remontée en avril.
+    Les valeurs les plus faibles sont enregistrées en janvier et février, surtout dans le sud-ouest de la région (district de Soalala), avec une légère remontée en mars-avril.
 
-  - Minimum relatif en hiver austral (Mai à Août)
-    Les mois de mai à août marquent le minimum annuel de radiation solaire, en particulier juin et juillet, où les valeurs descendent autour de 1422 à 1575 J/cm² dans la majeure partie de la région.
+  - Minimum relatif en hiver austral (Mai à Aout)
+    Les mois de mai à Juillet marquent le minimum annuel de radiation solaire, en particulier juin et juillet, où les valeurs descendent autour de 160 à 180 W/m² dans la majeure partie de la région.
 
     Ce creux est dû à la combinaison de la position solaire basse et de l’effet des alizés qui peuvent augmenter les nuages matinaux.
 
   - Pic de radiation en fin d’année (Septembre à Novembre)
-    Septembre à novembre constituent la période où l’ensoleillement est le plus intense, avec des radiations dépassant 2300 J/cm² dans plusieurs zones, notamment les districts d’Ambato-Boeny et Marovoay.
+    Septembre à novembre constituent la période où l’ensoleillement est le plus intense, avec des radiations dépassant 230 W/m² dans plusieurs zones, notamment les districts de Soalala, d’Ambato-Boeny, dans le Nord de MahajangaII et Marovoay.
 
-    Octobre et novembre représentent le maximum annuel, coïncidant avec le retour de conditions plus sèches avant la saison des pluies.
+    Octobre et novembre représentent le maximum annuel, coïncidant avec le retour de conditions plus sèches et chaude avant la saison des pluies.
 
     Ce fort ensoleillement favorise l’évapotranspiration, mais peut également accroître les risques de sécheresse si les précipitations sont déficitaires.
 
@@ -225,9 +225,9 @@ Ce graphique présente l’évolution mensuelle conjointe de la couverture nuage
 
 La couverture nuageuse maximale est entre de janvier à mars, la couverture nuageuse dépasse les 70 %, atteignant un pic en janvier (plus de 80 %), ce qui coïncide avec la saison des pluies.
 
-la Radiation solaire minimale pendant cette même période est autour de 1.5×10⁷ W/m², traduisant l’effet bloquant des nuages sur l’ensoleillement. Ces valeurs s'avère encore le plus haut à Madagascar durant ces saisons montrant la potentialité energetique de la région BOENY en terme d'insolation solaire.
+la Radiation solaire minimale pendant cette même période est autour de 150 W/m², traduisant l’effet bloquant des nuages sur l’ensoleillement. Ces valeurs s'avère encore le plus haut à Madagascar durant ces saisons montrant la potentialité energetique de la région BOENY en terme d'insolation solaire.
 
-Période la plus ensoleillée est entre les mois de septembre à novembre, la radiation solaire atteint un pic en octobre (~2.2×10⁷ W/m²), alors que la couverture nuageuse reste faible (<30 %), typique de la saison sèche.
+Période la plus ensoleillée est entre les mois de septembre à novembre, la radiation solaire atteint un pic en octobre (~250 W/m²), alors que la couverture nuageuse reste faible (<30 %).
 
 On peut observé qu'une relation inverse claire se dessine entre couverture nuageuse et radiation solaire : lorsque les nuages sont nombreux, l’énergie solaire reçue est faible, et inversement.
 
